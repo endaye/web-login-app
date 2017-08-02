@@ -59,3 +59,6 @@ typings/
 
 # JetBrain
 .idea/
+
+# Local MongoDB
+data/
