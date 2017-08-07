@@ -62,3 +62,5 @@ typings/
 
 # Local MongoDB
 data/
+run_mongo.bat
+run_mongodb.bat
